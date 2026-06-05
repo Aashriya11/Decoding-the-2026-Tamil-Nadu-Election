@@ -1,6 +1,6 @@
-# Decode the 2026 Tamil Nadu Assembly Election
+# Decoding the 2026 Tamil Nadu Assembly Election
 
-> **Codebasics Resume Project Challenge** | Domain: Media & Politics
+### **Codebasics Resume Project Challenge** | Domain: Media & Politics
 
 ![Title Page](https://github.com/Aashriya11/Decoding-the-2026-Tamil-Nadu-Election/blob/f8173905ab7fdc96f1b9c0c93a46dd95577aeeb6/Assets/Title%20page.png)
 
