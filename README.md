@@ -4,6 +4,8 @@
 
 ![Title Page](https://github.com/Aashriya11/Decoding-the-2026-Tamil-Nadu-Election/blob/f8173905ab7fdc96f1b9c0c93a46dd95577aeeb6/Assets/Title%20page.png)
 
+Watch Full Video Walk through on Youtube: [https://www.youtube.com/watch?v=ZiiyC8UUAbI](https://www.youtube.com/watch?v=ZiiyC8UUAbI)
+
 ---
 
 ## Project Overview
@@ -127,11 +129,17 @@ Tamil Nadu recorded its **highest-ever voter turnout of 85.1% in 2026**, an incr
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - **Election Commission of India (ECI)** — for making official election data publicly available
 - **Codebasics** — for the Resume Project Challenge framework
 
 ---
 
+## Author
+
+Made by: Aashriya Rawat
+
 *This project is purely analytical and data-driven. No political opinions, predictions or commentary are expressed or implied.*
+
+
