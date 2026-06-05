@@ -1,6 +1,9 @@
 # Decoding the 2026 Tamil Nadu Assembly Election
-
 ### **Codebasics Resume Project Challenge** | Domain: Media & Politics
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-orange)
+![Data Storytelling](https://img.shields.io/badge/Focus-Data%20Storytelling-green)
+![Codebasics](https://img.shields.io/badge/Project-Codebasics-blue)
 
 ![Title Page](https://github.com/Aashriya11/Decoding-the-2026-Tamil-Nadu-Election/blob/f8173905ab7fdc96f1b9c0c93a46dd95577aeeb6/Assets/Title%20page.png)
 
@@ -139,6 +142,7 @@ Tamil Nadu recorded its **highest-ever voter turnout of 85.1% in 2026**, an incr
 ## Author
 
 Made by: Aashriya Rawat
+**LinkedIn Post:** [Click Here](https://www.linkedin.com/posts/aashriya-rawat_powerbi-dataanalytics-datastorytelling-ugcPost-7468680509569732609-4BVk/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEaKQXIB1-GIE2Nng4OT5hcLpf_ah6hUxno)
 
 *This project is purely analytical and data-driven. No political opinions, predictions or commentary are expressed or implied.*
 
