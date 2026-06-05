@@ -141,9 +141,8 @@ Tamil Nadu recorded its **highest-ever voter turnout of 85.1% in 2026**, an incr
 
 ## Author
 
-Made by: Aashriya Rawat
+
+**Made By:** Aashriya Rawat  
 **LinkedIn Post:** [Click Here](https://www.linkedin.com/posts/aashriya-rawat_powerbi-dataanalytics-datastorytelling-ugcPost-7468680509569732609-4BVk/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEaKQXIB1-GIE2Nng4OT5hcLpf_ah6hUxno)
 
 *This project is purely analytical and data-driven. No political opinions, predictions or commentary are expressed or implied.*
-
-
